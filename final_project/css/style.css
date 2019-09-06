@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i&display=swap&subset=latin-ext');
+
+body {
+  background-color:  #0099cc;
+  font-family: "Lora", serif;
+  color:  #002b80;
+}
+h1 {
+  text-align: center;
+  font-size: 75 px;
+  background-color: #40bf80;
+  border: 10px solid;
+  padding: 20px;
+}
+p.quote {
+text-align: center;
+font-style: italic;
+}
+img {
+    display: block;
+    margin: 40px auto;
+    width: 700px;
+}
+.art {
+  color: #993333;
+}
